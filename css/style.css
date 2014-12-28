@@ -28,5 +28,6 @@ body {
 
 .image2 {
   max-height: 202px;
+  outline: 1px solid #747704;
 }
 
